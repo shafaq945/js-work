@@ -16,4 +16,6 @@ console.log(name)
 // arry  name = ["sheharyar", "sameer", "muskan", "shafaq"] strings
 
 
-
+console.log("shafaq","muskan")
+alert("")
+confirm("")
